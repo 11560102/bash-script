@@ -6,7 +6,7 @@
 重新执行一键脚本下载对应系统文件
 ## 一键脚本：
 ```
-bash <(curl -sL https://ghproxy.cc/https://raw.githubusercontent.com/qljsyph/DPInfo-script/refs/heads/main/auto-sysinfo.sh)
+bash <(curl -sL https://ghproxy.cc/https://raw.githubusercontent.com/11560102/bash-script/refs/heads/main/auto-sysinfo.sh)
 ```
 # 系统信息显示内容
 - **当前时间**
@@ -23,9 +23,9 @@ bash <(curl -sL https://ghproxy.cc/https://raw.githubusercontent.com/qljsyph/DPI
 - **网络设置信息**
 - **网络接口信息**
 # Wiki
-https://github.com/qljsyph/bash-script/wiki/bash%E2%80%90script说明
+https://github.com/11560102/bash-script/wiki/bash%E2%80%90script说明
 # 界面展示
 - **Debian**
-![Image text](https://raw.githubusercontent.com/qljsyph/bash-script/refs/heads/main/picture/1735899502390.jpg)
+![Image text](https://raw.githubusercontent.com/11560102/bash-script/refs/heads/main/picture/1735899502390.jpg)
 - **Armbian**
-![Image text](https://raw.githubusercontent.com/qljsyph/bash-script/refs/heads/main/picture/1735899414883.jpg)
+![Image text](https://raw.githubusercontent.com/11560102/bash-script/refs/heads/main/picture/1735899414883.jpg)
